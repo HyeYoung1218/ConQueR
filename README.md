@@ -2,6 +2,7 @@
 
 This is the official repository for our paper "ConQueR: Contextualized Query Reduction using Search Logs" in SIGIR'23.
 
+<<<<<<< HEAD
 ## Dataset
 Unfortunately, the search log dataset is not publicly available due to privacy issues. Instead, we provide sample data as an example of the data format.
 
@@ -43,3 +44,6 @@ python eval_ensemble.py
 #### Arguments (see more arguments in `config.py`)
 - gpus
     - default: 0
+=======
+The source code will be uploaded within July 2023.
+>>>>>>> 8d64457aa79f217642a5daead68ebb6e91bfeb6c
