@@ -36,7 +36,7 @@ python conquer_sub.py
 ```
 - Run the python file (at the root of the project) with best_ckpt file of ConQueR_core and ConQueR_sub in saves folder.
 ```bash
-# run conquer_sub
+# ensemble two models
 python eval_ensemble.py
 ```
 
