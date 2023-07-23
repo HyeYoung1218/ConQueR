@@ -1,6 +1,6 @@
 # ConQueR (SIGIR'23)
 
-This is the official repository for our paper "ConQueR: Contextualized Query Reduction using Search Logs" in SIGIR'23.
+This is the official repository for our paper "[ConQueR: Contextualized Query Reduction using Search Logs](https://arxiv.org/abs/2305.12662)" in SIGIR'23.
 
 ## Dataset
 Unfortunately, the search log dataset is not publicly available due to privacy issues. Instead, we provide sample data as an example of the data format.
